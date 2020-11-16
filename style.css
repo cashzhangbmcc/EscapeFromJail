@@ -1,0 +1,40 @@
+#p3{
+    color:red;
+}
+
+#jail{
+    position: relative;
+    left:600px;
+    top:-100px;
+    width:400px;
+}
+
+#g{
+    position: relative;
+    width:400px;
+}
+
+#wfp{
+    position: relative;
+    width:400px;
+}
+
+#sc{
+    position: relative;
+    width:980px;
+}
+
+#route{
+    position: relative;
+    width:450px;
+}
+
+#tool{
+    position: relative;
+    width:388px;
+}
+
+#h2{
+    text-decoration: underline overline;
+    font-family:fantasy
+}
